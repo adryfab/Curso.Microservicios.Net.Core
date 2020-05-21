@@ -1,0 +1,12 @@
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\bin\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.deps.json
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\bin\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.dll
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.csprojAssemblyReference.cache
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.AssemblyInfoInputs.cache
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.AssemblyInfo.cs
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\bin\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.pdb
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\bin\Debug\netcoreapp3.1\Catalogo.Dominio.dll
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\bin\Debug\netcoreapp3.1\Catalogo.Dominio.pdb
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.csproj.CoreCompileInputs.cache
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.csproj.CopyComplete
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.dll
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Persistencia.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.Database.pdb

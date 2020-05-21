@@ -1,0 +1,12 @@
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\bin\Debug\netcoreapp3.1\Servicio.Comun.Coleccion.dll
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\obj\Debug\netcoreapp3.1\Servicio.Comun.Paginando.csprojAssemblyReference.cache
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\obj\Debug\netcoreapp3.1\Servicio.Comun.Paginando.AssemblyInfoInputs.cache
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\obj\Debug\netcoreapp3.1\Servicio.Comun.Paginando.AssemblyInfo.cs
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\bin\Debug\netcoreapp3.1\Servicio.Comun.Paginando.deps.json
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\bin\Debug\netcoreapp3.1\Servicio.Comun.Paginando.dll
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\bin\Debug\netcoreapp3.1\Servicio.Comun.Paginando.pdb
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\bin\Debug\netcoreapp3.1\Servicio.Comun.Coleccion.pdb
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\obj\Debug\netcoreapp3.1\Servicio.Comun.Paginando.csproj.CoreCompileInputs.cache
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\obj\Debug\netcoreapp3.1\Servicio.Comun.Paginando.csproj.CopyComplete
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\obj\Debug\netcoreapp3.1\Servicio.Comun.Paginando.dll
+C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Comun\Servicio.Comun.Paginando\obj\Debug\netcoreapp3.1\Servicio.Comun.Paginando.pdb
