@@ -659,11 +659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj",
+      "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj",
       "projectName": "Servicio.Comun.Paginando",
-      "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj",
+      "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj",
       "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\obj\\",
+      "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -683,8 +683,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj": {
-              "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj"
+            "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj": {
+              "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj"
             }
           }
         }

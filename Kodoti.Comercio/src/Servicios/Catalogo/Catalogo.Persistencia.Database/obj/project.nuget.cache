@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ubTl7D3dBv7rqxe1VqGsNYWP6dmO6eBRPBXwUv8vc2Wifk7511gt/volJd/HDIQdUFCLjXN0+5/R0ygcp6pm/A==",
+  "dgSpecHash": "1j7asbiAn0RUC3kGhL6d//VGWWY3E4A5y+2PlRTOXmi0etAU5wkgMPtEP4tuJluNeruvVmyKY0GcH1VcQwAEEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj",
+  "projectFilePath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adry_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\adry_\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

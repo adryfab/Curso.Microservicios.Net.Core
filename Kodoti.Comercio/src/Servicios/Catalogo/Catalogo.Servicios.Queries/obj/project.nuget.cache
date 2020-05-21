@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x+phTdimKD3EjK4Zb+wUS+7iwhom4T5JSS+NxTm2gmLMPg0BS2/Cu46K8BTMpRjl5PoL/y5l39w0RVPZLSD04A==",
+  "dgSpecHash": "gzWO6dW3zXSrkb0L7+IJOe8XdA/gqs5IlsZxI05vJKhqQAisw4fLD3ywUegIDcOO0Puzq6wNxDibyTKAkwSzsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj",
+  "projectFilePath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adry_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\adry_\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

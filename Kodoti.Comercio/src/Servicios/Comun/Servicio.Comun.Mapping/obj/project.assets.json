@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
+      "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
       "projectName": "Servicio.Comun.Mapping",
-      "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
+      "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
       "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\obj\\",
+      "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

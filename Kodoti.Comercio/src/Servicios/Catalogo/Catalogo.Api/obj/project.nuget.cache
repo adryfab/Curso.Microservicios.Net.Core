@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VdY9yABWDfEqE2s4kK6liLsXOpElJNAyJtgpejNki5QJahNqCA5cyBlOzxBm0ZrH/FTfJk7ZZlUQaFZwKS3i1w==",
+  "dgSpecHash": "P28JwnaZb5dKC+eZt3QEC9HXRj0mWXzzB1h/afXVsTHNMzKtI4ki2HqKl17aYxanz0b1wQs7gxO1niCBB/JXug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj",
+  "projectFilePath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adry_\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\adry_\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",

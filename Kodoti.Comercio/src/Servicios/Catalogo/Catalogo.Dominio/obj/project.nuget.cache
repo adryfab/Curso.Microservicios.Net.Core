@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aI9KtoTGY2HAUFeWj5Rlau3v4OvI43xkgmRXBuHJyFcZwN4aUBG6wtK4BYn67y+qj/YG4BKsXfY/uHKW9GlXqw==",
+  "dgSpecHash": "iYOZ7TUY4QOURKh6EloN18DKsaJRMPNom/+tdDcFaj/fK1gyCrL2Va5c03mzKSCQhlaV3ZEPELAhvDD5iUw49g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

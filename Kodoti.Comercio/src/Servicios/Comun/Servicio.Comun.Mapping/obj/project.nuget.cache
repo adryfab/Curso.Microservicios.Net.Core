@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecKwuUhB55+kPZh6jf4nKR1DMuVE53Gj1V5B2+JSKq3SRX4EAZ+D6TW5ewcrBb3B7ziYPvd7JpHvJCY6UTPo5Q==",
+  "dgSpecHash": "l120oeZ+YdyUuxI+TMpXOgXFHlY6RgQL1bpPwkJ9V7KSyjNrp89IFY9TV3dM1tMKobPc2u1dE+9rtBLQTi7YRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
+  "projectFilePath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

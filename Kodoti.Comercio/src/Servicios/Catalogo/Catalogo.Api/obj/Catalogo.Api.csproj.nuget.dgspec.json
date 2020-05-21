@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj": {}
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj": {
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj",
+        "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj",
         "projectName": "Catalogo.Api",
-        "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj",
+        "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj",
         "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\obj\\",
+        "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,14 +31,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj"
               },
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj"
               },
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj": {
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj",
         "projectName": "Catalogo.Dominio",
-        "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj",
+        "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj",
         "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj",
+        "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj",
         "projectName": "Catalogo.Persistencia.Database",
-        "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj",
+        "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj",
         "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\obj\\",
+        "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -172,8 +172,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj"
               }
             }
           }
@@ -211,14 +211,14 @@
         }
       }
     },
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj": {
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj",
+        "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj",
         "projectName": "Catalogo.Servicios.EventHandlers",
-        "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj",
+        "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj",
         "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\obj\\",
+        "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -238,8 +238,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj"
               }
             }
           }
@@ -277,14 +277,14 @@
         }
       }
     },
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj": {
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj",
+        "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj",
         "projectName": "Catalogo.Servicios.Queries",
-        "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj",
+        "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\Catalogo.Servicios.Queries.csproj",
         "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\obj\\",
+        "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -304,17 +304,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj"
               },
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj"
               },
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj"
               },
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj"
               }
             }
           }
@@ -346,14 +346,14 @@
         }
       }
     },
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj": {
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj",
+        "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj",
         "projectName": "Servicio.Comun.Coleccion",
-        "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj",
+        "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj",
         "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\obj\\",
+        "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -402,14 +402,14 @@
         }
       }
     },
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj": {
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
+        "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
         "projectName": "Servicio.Comun.Mapping",
-        "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
+        "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
         "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\obj\\",
+        "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -458,14 +458,14 @@
         }
       }
     },
-    "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj": {
+    "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj",
+        "projectUniqueName": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj",
         "projectName": "Servicio.Comun.Paginando",
-        "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj",
+        "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\Servicio.Comun.Paginando.csproj",
         "packagesPath": "C:\\Users\\adry_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\obj\\",
+        "outputPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Paginando\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -485,8 +485,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj": {
-                "projectPath": "C:\\Users\\adry_\\source\\repos\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj"
+              "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj": {
+                "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Comun\\Servicio.Comun.Coleccion\\Servicio.Comun.Coleccion.csproj"
               }
             }
           }
