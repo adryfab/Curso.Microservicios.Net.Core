@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "crYj0sWSuhpqZb+Dz2qkzNwHoL23R5rfMno9/0P2Y+gmbf3ByHFcZzJIVuY/+cakl1BGNv1gPi5ejBqa+83mkQ==",
+  "dgSpecHash": "MxagVQS14wdZAGzWWw/OAczVLVYKhYegMCgVSIazTtJikT7YoDGtznc1KZzIEcDWtwbcuMbLlLKz5o83lvLKow==",
   "success": true,
   "projectFilePath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Servicios.EventHandlers\\Catalogo.Servicios.EventHandlers.csproj",
   "expectedPackageFiles": [

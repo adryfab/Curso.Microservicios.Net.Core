@@ -16,8 +16,8 @@ namespace Catalogo.Api.Controllers
     [Route("productos")]
     public class ProductoController : ControllerBase
     {
-        private readonly IProductoQueryServicio _productoQueryServicio;
         private readonly ILogger<ProductoController> _logger;
+        private readonly IProductoQueryServicio _productoQueryServicio;
         private readonly IMediator _mediator;
 
         public ProductoController(

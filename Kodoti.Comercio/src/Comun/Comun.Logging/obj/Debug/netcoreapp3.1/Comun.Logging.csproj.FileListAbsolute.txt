@@ -1,0 +1,9 @@
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\bin\Debug\netcoreapp3.1\Comun.Logging.deps.json
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\bin\Debug\netcoreapp3.1\Comun.Logging.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\obj\Debug\netcoreapp3.1\Comun.Logging.csprojAssemblyReference.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\obj\Debug\netcoreapp3.1\Comun.Logging.AssemblyInfoInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\obj\Debug\netcoreapp3.1\Comun.Logging.AssemblyInfo.cs
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\bin\Debug\netcoreapp3.1\Comun.Logging.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\obj\Debug\netcoreapp3.1\Comun.Logging.csproj.CoreCompileInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\obj\Debug\netcoreapp3.1\Comun.Logging.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Comun\Comun.Logging\obj\Debug\netcoreapp3.1\Comun.Logging.pdb

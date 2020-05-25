@@ -361,6 +361,18 @@
           }
         }
       },
+      "Nito.Disposables/2.0.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections.Immutable": "1.4.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.Disposables.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.Disposables.dll": {}
+        }
+      },
       "runtime.native.System/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1303,6 +1315,16 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Catalogo.Comun/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Catalogo.Comun.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalogo.Comun.dll": {}
+        }
+      },
       "Catalogo.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1331,6 +1353,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Catalogo.Comun": "1.0.0",
           "Catalogo.Persistencia.Database": "1.0.0",
           "MediatR": "8.0.1"
         },
@@ -1355,6 +1378,20 @@
         },
         "runtime": {
           "bin/placeholder/Catalogo.Servicios.Queries.dll": {}
+        }
+      },
+      "Comun.Logging/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.4",
+          "Nito.Disposables": "2.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Comun.Logging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Comun.Logging.dll": {}
         }
       },
       "Servicio.Comun.Coleccion/1.0.0": {
@@ -1982,6 +2019,23 @@
         "runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Nito.Disposables/2.0.1": {
+      "sha512": "SGT/OdkkNBAwzPVB0AVt7GkiWKr4Lka03w0CB/Ff9QlITRSDXdq9NScvtublGAeNtPh9dBrxnOyFI0MyQHwq6Q==",
+      "type": "package",
+      "path": "nito.disposables/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Nito.Disposables.dll",
+        "lib/net461/Nito.Disposables.xml",
+        "lib/netstandard1.0/Nito.Disposables.dll",
+        "lib/netstandard1.0/Nito.Disposables.xml",
+        "lib/netstandard2.0/Nito.Disposables.dll",
+        "lib/netstandard2.0/Nito.Disposables.xml",
+        "nito.disposables.2.0.1.nupkg.sha512",
+        "nito.disposables.nuspec"
       ]
     },
     "runtime.native.System/4.3.0": {
@@ -5130,6 +5184,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Catalogo.Comun/1.0.0": {
+      "type": "project",
+      "path": "../Catalogo.Comun/Catalogo.Comun.csproj",
+      "msbuildProject": "../Catalogo.Comun/Catalogo.Comun.csproj"
+    },
     "Catalogo.Dominio/1.0.0": {
       "type": "project",
       "path": "../Catalogo.Dominio/Catalogo.Dominio.csproj",
@@ -5149,6 +5208,11 @@
       "type": "project",
       "path": "../Catalogo.Servicios.Queries/Catalogo.Servicios.Queries.csproj",
       "msbuildProject": "../Catalogo.Servicios.Queries/Catalogo.Servicios.Queries.csproj"
+    },
+    "Comun.Logging/1.0.0": {
+      "type": "project",
+      "path": "../../../Comun/Comun.Logging/Comun.Logging.csproj",
+      "msbuildProject": "../../../Comun/Comun.Logging/Comun.Logging.csproj"
     },
     "Servicio.Comun.Coleccion/1.0.0": {
       "type": "project",
@@ -5171,6 +5235,7 @@
       "Catalogo.Persistencia.Database >= 1.0.0",
       "Catalogo.Servicios.EventHandlers >= 1.0.0",
       "Catalogo.Servicios.Queries >= 1.0.0",
+      "Comun.Logging >= 1.0.0",
       "MediatR >= 8.0.1",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.4"
@@ -5207,6 +5272,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Comun\\Comun.Logging\\Comun.Logging.csproj": {
+              "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Comun\\Comun.Logging\\Comun.Logging.csproj"
+            },
             "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj": {
               "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.Database\\Catalogo.Persistencia.Database.csproj"
             },

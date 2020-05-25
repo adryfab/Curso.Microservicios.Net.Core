@@ -27,6 +27,7 @@
           "Catalogo.Persistencia.Database": "1.0.0",
           "Catalogo.Servicios.EventHandlers": "1.0.0",
           "Catalogo.Servicios.Queries": "1.0.0",
+          "Comun.Logging": "1.0.0",
           "MediatR": "8.0.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.4",
@@ -640,6 +641,20 @@
           "System.Security.Principal.Windows": "4.5.0"
         }
       },
+      "Nito.Disposables/2.0.1": {
+        "dependencies": {
+          "System.Collections.Immutable": "1.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nito.Disposables.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Nito.Disposables.dll": {}
+        }
+      },
       "runtime.native.System/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.0.0",
@@ -1233,6 +1248,14 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "Catalogo.Comun/1.0.0": {
+        "runtime": {
+          "Catalogo.Comun.dll": {}
+        },
+        "compile": {
+          "Catalogo.Comun.dll": {}
+        }
+      },
       "Catalogo.Dominio/1.0.0": {
         "runtime": {
           "Catalogo.Dominio.dll": {}
@@ -1255,6 +1278,7 @@
       },
       "Catalogo.Servicios.EventHandlers/1.0.0": {
         "dependencies": {
+          "Catalogo.Comun": "1.0.0",
           "Catalogo.Persistencia.Database": "1.0.0",
           "MediatR": "8.0.1"
         },
@@ -1277,6 +1301,18 @@
         },
         "compile": {
           "Catalogo.Servicios.Queries.dll": {}
+        }
+      },
+      "Comun.Logging/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.4",
+          "Nito.Disposables": "2.0.1"
+        },
+        "runtime": {
+          "Comun.Logging.dll": {}
+        },
+        "compile": {
+          "Comun.Logging.dll": {}
         }
       },
       "Servicio.Comun.Coleccion/1.0.0": {
@@ -3071,6 +3107,13 @@
       "path": "microsoft.win32.registry/4.5.0",
       "hashPath": "microsoft.win32.registry.4.5.0.nupkg.sha512"
     },
+    "Nito.Disposables/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SGT/OdkkNBAwzPVB0AVt7GkiWKr4Lka03w0CB/Ff9QlITRSDXdq9NScvtublGAeNtPh9dBrxnOyFI0MyQHwq6Q==",
+      "path": "nito.disposables/2.0.1",
+      "hashPath": "nito.disposables.2.0.1.nupkg.sha512"
+    },
     "runtime.native.System/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -3505,6 +3548,11 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
+    "Catalogo.Comun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Catalogo.Dominio/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -3521,6 +3569,11 @@
       "sha512": ""
     },
     "Catalogo.Servicios.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Comun.Logging/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

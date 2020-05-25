@@ -7,3 +7,12 @@ C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Domi
 C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.dll
 C:\Users\adry_\source\repos\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\bin\Debug\netcoreapp3.1\Catalogo.Dominio.deps.json
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\bin\Debug\netcoreapp3.1\Catalogo.Dominio.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\bin\Debug\netcoreapp3.1\Catalogo.Dominio.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.csprojAssemblyReference.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.AssemblyInfoInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.AssemblyInfo.cs
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Dominio\obj\Debug\netcoreapp3.1\Catalogo.Dominio.pdb

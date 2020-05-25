@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Catalogo.Comun\Catalogo.Comun.csproj" />
     <ProjectReference Include="..\Catalogo.Persistencia.Database\Catalogo.Persistencia.Database.csproj" />
   </ItemGroup>
 

@@ -1,0 +1,9 @@
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\bin\Debug\netcoreapp3.1\Catalogo.Comun.deps.json
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\bin\Debug\netcoreapp3.1\Catalogo.Comun.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\bin\Debug\netcoreapp3.1\Catalogo.Comun.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\obj\Debug\netcoreapp3.1\Catalogo.Comun.csprojAssemblyReference.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\obj\Debug\netcoreapp3.1\Catalogo.Comun.AssemblyInfoInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\obj\Debug\netcoreapp3.1\Catalogo.Comun.AssemblyInfo.cs
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\obj\Debug\netcoreapp3.1\Catalogo.Comun.csproj.CoreCompileInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\obj\Debug\netcoreapp3.1\Catalogo.Comun.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Catalogo\Catalogo.Comun\obj\Debug\netcoreapp3.1\Catalogo.Comun.pdb

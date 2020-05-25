@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZGES/1mwx2ln7BHRWHf9U6+qsKdH8Kxk+Y0fhJyzkvdIqEnynS7pUNIYesi8w09CQcP4EU8HkfbSs5DIQ0TWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Comun\\Comun.Logging\\Comun.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adry_\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\adry_\\.nuget\\packages\\nito.disposables\\2.0.1\\nito.disposables.2.0.1.nupkg.sha512",
+    "C:\\Users\\adry_\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
