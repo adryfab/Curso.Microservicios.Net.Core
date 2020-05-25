@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 using Catalogo.Persistencia.Database;
 using Catalogo.Servicios.Queries;
 using Comun.Logging;
+using HealthChecks.UI.Client;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
@@ -37,6 +40,12 @@ namespace Catalogo.Api
                     x => x.MigrationsHistoryTable("_MigrationsHistory","Catalogo")
                 )
             );
+
+            services.AddHealthChecks()
+                .AddCheck("self", () => HealthCheckResult.Healthy())
+                .AddDbContextCheck<AplicacionDBContext>();
+
+            services.AddHealthChecksUI();
 
             services.AddMediatR(Assembly.Load("Catalogo.Servicios.EventHandlers"));
 
@@ -67,6 +76,14 @@ namespace Catalogo.Api
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapHealthChecks("/hc", new HealthCheckOptions() 
+                {
+                    Predicate = _ => true,
+                    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
+                });
+
+                endpoints.MapHealthChecksUI();
+
                 endpoints.MapControllers();
             });
         }
