@@ -25,6 +25,7 @@
       "Customer.Api/1.0.0": {
         "dependencies": {
           "Customer.Persistencia.Database": "1.0.0",
+          "Customer.Servicios.Queries": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.4",
           "Microsoft.EntityFrameworkCore.Design": "3.1.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4",
@@ -1220,6 +1221,48 @@
         },
         "compile": {
           "Customer.Persistencia.Database.dll": {}
+        }
+      },
+      "Customer.Servicios.Queries/1.0.0": {
+        "dependencies": {
+          "Customer.Persistencia.Database": "1.0.0",
+          "Servicio.Comun.Coleccion": "1.0.0",
+          "Servicio.Comun.Mapping": "1.0.0",
+          "Servicio.Comun.Paginando": "1.0.0"
+        },
+        "runtime": {
+          "Customer.Servicios.Queries.dll": {}
+        },
+        "compile": {
+          "Customer.Servicios.Queries.dll": {}
+        }
+      },
+      "Servicio.Comun.Coleccion/1.0.0": {
+        "runtime": {
+          "Servicio.Comun.Coleccion.dll": {}
+        },
+        "compile": {
+          "Servicio.Comun.Coleccion.dll": {}
+        }
+      },
+      "Servicio.Comun.Mapping/1.0.0": {
+        "runtime": {
+          "Servicio.Comun.Mapping.dll": {}
+        },
+        "compile": {
+          "Servicio.Comun.Mapping.dll": {}
+        }
+      },
+      "Servicio.Comun.Paginando/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.4",
+          "Servicio.Comun.Coleccion": "1.0.0"
+        },
+        "runtime": {
+          "Servicio.Comun.Paginando.dll": {}
+        },
+        "compile": {
+          "Servicio.Comun.Paginando.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3405,6 +3448,26 @@
       "sha512": ""
     },
     "Customer.Persistencia.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Customer.Servicios.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicio.Comun.Coleccion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicio.Comun.Mapping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicio.Comun.Paginando/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

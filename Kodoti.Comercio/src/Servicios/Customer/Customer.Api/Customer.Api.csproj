@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Customer.Persistencia.Database\Customer.Persistencia.Database.csproj" />
+    <ProjectReference Include="..\Customer.Servicios.Queries\Customer.Servicios.Queries.csproj" />
   </ItemGroup>
 
 

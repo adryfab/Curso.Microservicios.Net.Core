@@ -56,3 +56,11 @@ C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.C
 C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\obj\Debug\netcoreapp3.1\Customer.Api.csproj.CoreCompileInputs.cache
 C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\obj\Debug\netcoreapp3.1\Customer.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Customer.Servicios.Queries.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Servicio.Comun.Coleccion.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Servicio.Comun.Mapping.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Servicio.Comun.Paginando.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Customer.Servicios.Queries.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Servicio.Comun.Coleccion.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Servicio.Comun.Mapping.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Api\bin\Debug\netcoreapp3.1\Servicio.Comun.Paginando.pdb
