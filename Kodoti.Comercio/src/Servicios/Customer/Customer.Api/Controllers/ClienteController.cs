@@ -1,4 +1,5 @@
-﻿using Customer.Servicios.Queries;
+﻿using Customer.Servicios.EventHandler.Comando;
+using Customer.Servicios.Queries;
 using Customer.Servicios.Queries.DTOs;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -6,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using static Servicio.Comun.Coleccion.DataColeccion;
+using MediatR;
 
 namespace Customer.Api.Controllers
 {
@@ -14,10 +16,13 @@ namespace Customer.Api.Controllers
     public class ClienteController : ControllerBase
     {
         private readonly IClienteQueryServicio _clienteQueryServicio;
+        private readonly IMediator _mediator;
 
-        public ClienteController (IClienteQueryServicio clienteQueryServicio)
+        public ClienteController (IClienteQueryServicio clienteQueryServicio,
+            IMediator mediator)
         {
             _clienteQueryServicio = clienteQueryServicio;
+            _mediator = mediator;
         }
 
         [HttpGet]
@@ -31,6 +36,19 @@ namespace Customer.Api.Controllers
             }
 
             return await _clienteQueryServicio.GetAllAsync(pagina, take, clientes);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ClienteDto> Get(int id)
+        {
+            return await _clienteQueryServicio.GetAsync(id);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(ClienteCrearComando comando)
+        {
+            await _mediator.Publish(comando);
+            return Ok();
         }
 
     }

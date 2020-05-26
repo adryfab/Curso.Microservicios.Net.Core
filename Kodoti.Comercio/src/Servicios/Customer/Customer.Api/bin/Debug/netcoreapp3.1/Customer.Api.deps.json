@@ -25,7 +25,10 @@
       "Customer.Api/1.0.0": {
         "dependencies": {
           "Customer.Persistencia.Database": "1.0.0",
+          "Customer.Servicios.EventHandler": "1.0.0",
           "Customer.Servicios.Queries": "1.0.0",
+          "MediatR": "8.0.1",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.4",
           "Microsoft.EntityFrameworkCore.Design": "3.1.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4",
@@ -295,6 +298,32 @@
         },
         "compile": {
           "Customer.Api.dll": {}
+        }
+      },
+      "MediatR/8.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "8.0.1.0",
+            "fileVersion": "8.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
+        "dependencies": {
+          "MediatR": "8.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -1221,6 +1250,18 @@
         },
         "compile": {
           "Customer.Persistencia.Database.dll": {}
+        }
+      },
+      "Customer.Servicios.EventHandler/1.0.0": {
+        "dependencies": {
+          "Customer.Persistencia.Database": "1.0.0",
+          "MediatR": "8.0.1"
+        },
+        "runtime": {
+          "Customer.Servicios.EventHandler.dll": {}
+        },
+        "compile": {
+          "Customer.Servicios.EventHandler.dll": {}
         }
       },
       "Customer.Servicios.Queries/1.0.0": {
@@ -2833,6 +2874,20 @@
       "serviceable": false,
       "sha512": ""
     },
+    "MediatR/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
+      "path": "mediatr/8.0.1",
+      "hashPath": "mediatr.8.0.1.nupkg.sha512"
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qGa+dbfrpk6y01swgc0uM+jG5tkb5xVeY1P4iByd3NQCDO7nmrMBnBRoMGhKlSigQ6iWXDiwOpzC01W4xrJxLg==",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/8.0.0",
+      "hashPath": "mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512"
+    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",
       "serviceable": true,
@@ -3448,6 +3503,11 @@
       "sha512": ""
     },
     "Customer.Persistencia.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Customer.Servicios.EventHandler/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

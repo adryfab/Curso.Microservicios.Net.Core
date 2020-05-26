@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GOAyIGhgxDKR4pc9Ez5xjs4gNdizZzdVH8L5Zp3Vqn3oW4HeWmY10NiH5Zua3UAeDkNwp8rpWjvf71S5X6pFqA==",
+  "dgSpecHash": "bWql258Iljk0zdn+FxTHJwNcxmICN7XLM2rrBmazKAlvcEg++OABai0ux7v8runmeBvFplvm9XcXhXQGnMq4kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Customer\\Customer.Api\\Customer.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adry_\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\adry_\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\adry_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\adry_\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\adry_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

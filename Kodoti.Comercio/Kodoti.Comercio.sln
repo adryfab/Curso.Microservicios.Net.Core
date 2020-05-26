@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer.Persistencia.Datab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer.Servicios.Queries", "src\Servicios\Customer\Customer.Servicios.Queries\Customer.Servicios.Queries.csproj", "{0D5C1571-A5AD-4257-BBF4-C2403F1B87A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer.Servicios.EventHandler", "src\Servicios\Customer\Customer.Servicios.EventHandler\Customer.Servicios.EventHandler.csproj", "{E3CBB781-AE03-4732-9FDB-4F0529502777}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{0D5C1571-A5AD-4257-BBF4-C2403F1B87A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D5C1571-A5AD-4257-BBF4-C2403F1B87A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D5C1571-A5AD-4257-BBF4-C2403F1B87A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CBB781-AE03-4732-9FDB-4F0529502777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CBB781-AE03-4732-9FDB-4F0529502777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CBB781-AE03-4732-9FDB-4F0529502777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CBB781-AE03-4732-9FDB-4F0529502777}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -178,6 +184,7 @@ Global
 		{57BABC9E-E23B-46CF-8349-0FE23E40F1E2} = {D326DBCB-4CA8-478C-9AB7-8B842CC074E4}
 		{E2D009A0-A1AB-4778-8BB7-4CF6FD7F5704} = {5C9A03A6-F3B7-4F35-95F5-2E6D8A9843D4}
 		{0D5C1571-A5AD-4257-BBF4-C2403F1B87A6} = {4C4CA7D5-820D-4A5D-AB00-E6509CF0BCC9}
+		{E3CBB781-AE03-4732-9FDB-4F0529502777} = {4C4CA7D5-820D-4A5D-AB00-E6509CF0BCC9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {731FC600-C32D-4F41-BBAE-1B64D675B093}

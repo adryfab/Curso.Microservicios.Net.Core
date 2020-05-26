@@ -2,6 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "MediatR/8.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "8.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -1295,6 +1317,20 @@
           "bin/placeholder/Customer.Persistencia.Database.dll": {}
         }
       },
+      "Customer.Servicios.EventHandler/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Customer.Persistencia.Database": "1.0.0",
+          "MediatR": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Customer.Servicios.EventHandler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Customer.Servicios.EventHandler.dll": {}
+        }
+      },
       "Customer.Servicios.Queries/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1348,6 +1384,34 @@
     }
   },
   "libraries": {
+    "MediatR/8.0.1": {
+      "sha512": "nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
+      "type": "package",
+      "path": "mediatr/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "mediatr.8.0.1.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
+      "sha512": "qGa+dbfrpk6y01swgc0uM+jG5tkb5xVeY1P4iByd3NQCDO7nmrMBnBRoMGhKlSigQ6iWXDiwOpzC01W4xrJxLg==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "sha512": "yuvf07qFWFqtK3P/MRkEKLhn5r2UbSpVueRziSqj0yJQIKFwG1pq9mOayK3zE5qZCTs0CbrwL9M6R8VwqyGy2w==",
       "type": "package",
@@ -5042,6 +5106,11 @@
       "path": "../Customer.Persistencia.Database/Customer.Persistencia.Database.csproj",
       "msbuildProject": "../Customer.Persistencia.Database/Customer.Persistencia.Database.csproj"
     },
+    "Customer.Servicios.EventHandler/1.0.0": {
+      "type": "project",
+      "path": "../Customer.Servicios.EventHandler/Customer.Servicios.EventHandler.csproj",
+      "msbuildProject": "../Customer.Servicios.EventHandler/Customer.Servicios.EventHandler.csproj"
+    },
     "Customer.Servicios.Queries/1.0.0": {
       "type": "project",
       "path": "../Customer.Servicios.Queries/Customer.Servicios.Queries.csproj",
@@ -5066,7 +5135,10 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Customer.Persistencia.Database >= 1.0.0",
+      "Customer.Servicios.EventHandler >= 1.0.0",
       "Customer.Servicios.Queries >= 1.0.0",
+      "MediatR >= 8.0.1",
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 8.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.4",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.4"
@@ -5106,6 +5178,9 @@
             "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Customer\\Customer.Persistencia.Database\\Customer.Persistencia.Database.csproj": {
               "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Customer\\Customer.Persistencia.Database\\Customer.Persistencia.Database.csproj"
             },
+            "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Customer\\Customer.Servicios.EventHandler\\Customer.Servicios.EventHandler.csproj": {
+              "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Customer\\Customer.Servicios.EventHandler\\Customer.Servicios.EventHandler.csproj"
+            },
             "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Customer\\Customer.Servicios.Queries\\Customer.Servicios.Queries.csproj": {
               "projectPath": "C:\\Users\\adry_\\OneDrive\\Documentos\\GitHub\\Curso.Microservicios.Net.Core\\Kodoti.Comercio\\src\\Servicios\\Customer\\Customer.Servicios.Queries\\Customer.Servicios.Queries.csproj"
             }
@@ -5121,6 +5196,14 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[8.0.1, )"
+          },
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[3.1.4, )"

@@ -13,7 +13,7 @@ namespace Customer.Api.Controllers
         [HttpGet]
         public string Inicio()
         {
-            return "Ejecutando ...";
+            return "Ejecutando Customer.Api ...";
         }
     }
 }

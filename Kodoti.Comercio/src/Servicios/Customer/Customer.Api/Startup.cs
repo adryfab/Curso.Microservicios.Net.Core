@@ -1,9 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using Customer.Persistencia.Database;
 using Customer.Servicios.Queries;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -36,6 +38,8 @@ namespace Customer.Api
             );
 
             services.AddTransient<IClienteQueryServicio, ClienteQueryServicio>();
+
+            services.AddMediatR(Assembly.Load("Customer.Servicios.EventHandler"));
 
             services.AddControllers();
         }
