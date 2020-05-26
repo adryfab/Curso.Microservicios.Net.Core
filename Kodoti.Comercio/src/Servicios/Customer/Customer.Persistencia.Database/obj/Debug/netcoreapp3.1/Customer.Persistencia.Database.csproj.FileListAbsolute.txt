@@ -1,0 +1,15 @@
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\bin\Debug\netcoreapp3.1\Customer.Persistencia.Database.deps.json
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\bin\Debug\netcoreapp3.1\Customer.Persistencia.Database.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\obj\Debug\netcoreapp3.1\Customer.Persistencia.Database.csprojAssemblyReference.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\obj\Debug\netcoreapp3.1\Customer.Persistencia.Database.AssemblyInfoInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\obj\Debug\netcoreapp3.1\Customer.Persistencia.Database.AssemblyInfo.cs
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\bin\Debug\netcoreapp3.1\Customer.Dominio.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\bin\Debug\netcoreapp3.1\Customer.Persistencia.Database.runtimeconfig.json
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\bin\Debug\netcoreapp3.1\Customer.Persistencia.Database.runtimeconfig.dev.json
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\bin\Debug\netcoreapp3.1\Customer.Persistencia.Database.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\bin\Debug\netcoreapp3.1\Customer.Dominio.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\obj\Debug\netcoreapp3.1\Customer.Persistencia.Database.csproj.CopyComplete
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\obj\Debug\netcoreapp3.1\Customer.Persistencia.Database.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\obj\Debug\netcoreapp3.1\Customer.Persistencia.Database.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\obj\Debug\netcoreapp3.1\Customer.Persistencia.Database.genruntimeconfig.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Persistencia.Database\obj\Debug\netcoreapp3.1\Customer.Persistencia.Database.csproj.CoreCompileInputs.cache

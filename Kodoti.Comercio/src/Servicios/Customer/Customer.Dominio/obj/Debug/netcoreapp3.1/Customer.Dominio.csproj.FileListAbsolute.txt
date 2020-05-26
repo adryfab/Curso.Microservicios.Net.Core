@@ -1,0 +1,9 @@
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\bin\Debug\netcoreapp3.1\Customer.Dominio.deps.json
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\bin\Debug\netcoreapp3.1\Customer.Dominio.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\bin\Debug\netcoreapp3.1\Customer.Dominio.pdb
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\obj\Debug\netcoreapp3.1\Customer.Dominio.csprojAssemblyReference.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\obj\Debug\netcoreapp3.1\Customer.Dominio.AssemblyInfoInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\obj\Debug\netcoreapp3.1\Customer.Dominio.AssemblyInfo.cs
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\obj\Debug\netcoreapp3.1\Customer.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\obj\Debug\netcoreapp3.1\Customer.Dominio.dll
+C:\Users\adry_\OneDrive\Documentos\GitHub\Curso.Microservicios.Net.Core\Kodoti.Comercio\src\Servicios\Customer\Customer.Dominio\obj\Debug\netcoreapp3.1\Customer.Dominio.pdb
